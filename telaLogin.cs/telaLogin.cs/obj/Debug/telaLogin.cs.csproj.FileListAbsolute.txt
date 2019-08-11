@@ -1,0 +1,14 @@
+C:\Users\Alexandre\source\repos\telaLogin.cs\telaLogin.cs\bin\Debug\telaLogin.cs.exe.config
+C:\Users\Alexandre\source\repos\telaLogin.cs\telaLogin.cs\bin\Debug\telaLogin.cs.exe
+C:\Users\Alexandre\source\repos\telaLogin.cs\telaLogin.cs\bin\Debug\telaLogin.cs.pdb
+C:\Users\Alexandre\source\repos\telaLogin.cs\telaLogin.cs\obj\Debug\telaLogin.cs.csprojAssemblyReference.cache
+C:\Users\Alexandre\source\repos\telaLogin.cs\telaLogin.cs\obj\Debug\telaLogin.cs.Form1.resources
+C:\Users\Alexandre\source\repos\telaLogin.cs\telaLogin.cs\obj\Debug\telaLogin.cs.FrmLogin.resources
+C:\Users\Alexandre\source\repos\telaLogin.cs\telaLogin.cs\obj\Debug\telaLogin.cs.Properties.Resources.resources
+C:\Users\Alexandre\source\repos\telaLogin.cs\telaLogin.cs\obj\Debug\telaLogin.cs.csproj.GenerateResource.cache
+C:\Users\Alexandre\source\repos\telaLogin.cs\telaLogin.cs\obj\Debug\telaLogin.cs.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\telaLogin.cs\telaLogin.cs\obj\Debug\telaLogin.cs.exe
+C:\Users\Alexandre\source\repos\telaLogin.cs\telaLogin.cs\obj\Debug\telaLogin.cs.pdb
+C:\Users\Alexandre\source\repos\telaLogin.cs\telaLogin.cs\obj\Debug\telaLogin.cs.FrmSplash.resources
+C:\Users\Alexandre\source\repos\telaLogin.cs\telaLogin.cs\obj\Debug\telaLogin.cs.FrmPrincipal.resources
+C:\Users\Alexandre\source\repos\telaLogin.cs\telaLogin.cs\obj\Debug\telaLogin.cs.FrmMedia.resources
